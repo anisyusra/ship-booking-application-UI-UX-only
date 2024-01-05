@@ -28,7 +28,7 @@ samples, guidance on mobile development, and a full API reference.
 ![image](https://github.com/anisyusra/ship-booking-application-UI-UX-only/assets/139026902/417fdffd-bdab-4d5c-bcf9-86dd76c83c68)
 ![image](https://github.com/anisyusra/ship-booking-application-UI-UX-only/assets/139026902/ece91f59-873e-49b7-bf5d-dfeba7bff7d3)
 ![image](https://github.com/anisyusra/ship-booking-application-UI-UX-only/assets/139026902/96275e39-a984-41a8-93dc-17e08c8bf39b)
-![image](https://github.com/anisyusra/ship-booking-application-UI-UX-only/assets/139026902/14f1df60-8b86-49ed-8948-e70ff423c605)
+![image](https://github.com/anisyusra/ship-booking-application-UI-UX-only/assets/139026902/64c37a93-460c-4f90-b3af-18c94e436c6b)
 
 
 
